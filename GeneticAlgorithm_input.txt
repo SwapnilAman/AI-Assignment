@@ -1,0 +1,3 @@
+Enter the number of students : 500
+Enter the number of groups they are to be dividen into : 10
+Enter the number of subjects : 6
