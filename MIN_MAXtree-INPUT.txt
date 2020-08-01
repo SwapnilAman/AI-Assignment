@@ -1,0 +1,9 @@
+Test case's : 1
+1.Human v/s AI		2.AI v/s AI
+
+$2
+
+1. 14		2. 21		3. 53		4.custom
+
+$1
+
